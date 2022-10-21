@@ -4,14 +4,14 @@ minimal_mistakes_skin: default
 
 # Site settings
 locale: en-US
-title: Ivan's Notes
+title: Joseph's Blog
 title_separator: "|"
 # subtitle:
-name: Ivan Huang
-description: "Ivan Huang (ivanhjc)'s personal blog/notebook dealing with topics majorly focusing on programming, math, music etc."
-url: https://notes.ivanhjc.net
-# baseurl: /ivans-notes
-# repository: ivanhjc/ivans-notes
+name: Joseph Tesfaye
+description: "Joseph Tesfaye's personal blog/notebook dealing with topics majorly focusing on programming, math, music etc."
+url: https://josephtesfaye.com/blog
+# baseurl: /blog
+# repository: josephtesfaye/blog
 # teaser:
 # logo:
 # masthead_title:
@@ -21,7 +21,7 @@ words_per_minute: 200
 comments:
   provider: disqus
   disqus:
-    shortname: ivansnotes
+    shortname: josephsblog
     
 # reCaptcha:
   # siteKey:
@@ -44,14 +44,14 @@ search_full_content: true
 # naver_site_verification  :
 
 twitter:
-  username: ivanhjc_
+  username: josephtesfaye_
 # og_image: 
 
 social:
   type: Person
-  name: Ivan Huang
+  name: Joseph Tesfaye
   links:
-    - "https://twitter.com/ivanhjc_"
+    - "https://twitter.com/josephtesfaye_"
 
 # Analytics
 analytics:
@@ -61,38 +61,38 @@ analytics:
     anonymize_ip: false
 
 author:
-  name: Ivan Huang
-  avatar: https://gravatar.loli.net/avatar/5cad7e9fe5a1ff8e50363b833e1c5b84?s=400
-  bio: "Intrigued by intriguing things"
+  name: Joseph Tesfaye
+  avatar: https://gravatar.loli.net/avatar/167bb330a4095f88f26e379608c94328?s=400
+  bio: Software engineer
   location: Multiverse
   links:
     - label: Home
       icon: fas fa-fw fa-home
-      url: https://ivanhjc.net
+      url: https://josephtesfaye.com
     - label: GitHub
       icon: fab fa-fw fa-github
-      url: https://github.com/ivanhjc
-    - label: StackExchange
-      icon: fab fa-fw fa-stack-exchange
-      url: https://stackexchange.com/users/4773526/ivan-huang
+      url: https://github.com/josephtesfaye
+    - label: Stack Overflow
+      icon: fab fa-fw fa-stack-overflow
+      url: https://stackoverflow.com/users/4357087
     - label: Twitter
       icon: fab fa-fw fa-twitter-square
-      url: https://twitter.com/ivanhjc_
-    
+      url: https://twitter.com/josephtesfaye_
+
 footer:
   links:
     - label: Home
       icon: fas fa-fw fa-home
-      url: https://ivanhjc.net
+      url: https://josephtesfaye.com
     - label: GitHub
       icon: fab fa-fw fa-github
-      url: https://github.com/ivanhjc
-    - label: StackExchange
-      icon: fab fa-fw fa-stack-exchange
-      url: https://stackexchange.com/users/4773526/ivan-huang
+      url: https://github.com/josephtesfaye
+    - label: Stack Overflow
+      icon: fab fa-fw fa-stack-overflow
+      url: https://stackoverflow.com/users/4357087
     - label: Twitter
       icon: fab fa-fw fa-twitter-square
-      url: https://twitter.com/ivanhjc_
+      url: https://twitter.com/josephtesfaye_
       
 include:
   - _pages
