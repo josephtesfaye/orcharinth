@@ -3,10 +3,9 @@ title: Vanilla Emacs to Bazinga Emacs: Java
 excerpt: "The complete guide to turn vanilla Emacs to a Java IDE"
 last_modified_at: 2020-11-02
 categories:
-  - productivity
+  - Emacs
 tags:
-  - emacs
-  - java
+  - Java
 ---
 
 Emacs is an old, open-source, not-so-normal plain text editor that boasts the power of being used to do almost anything with the same operational acquaintance that can be fully tailored for you. Using Emacs feels like a wizard in zen mode wielding his magical stick to construct whatever comes into his mind. It's a programmer's best friend but I also suggest everyone learns and uses it as soon as possible!

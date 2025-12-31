@@ -3,9 +3,9 @@ title: "Weird behavior of direct links from postimages.org"
 excerpt:
 last_modified_at: 2022-06-01
 categories:
-  - Web
+  - Productivity
 tags:
-  - Image
+  - Blogging
 ---
 
 In this [demo]({{site.baseurl}}/_demo/postimages.org_image_test.html):

@@ -3,14 +3,12 @@ title: "Everything Everywhere All at Once"
 excerpt: "Movie review (no spoilers)"
 last_modified_at: 2022-05-21
 categories:
-  - Diary
+  - Life
 tags:
-  - Film
-  - Action
-  - Sci-Fi
+  - Movie
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wxN1T1uxQ2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wxN1T1uxQ2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My rating: 8.1/10
 

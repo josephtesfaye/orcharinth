@@ -3,9 +3,9 @@ title: "挪威之慢"
 excerpt: "罗弗敦群岛像一支慵懒的手指伸向挪威海，我们在位于它南部海岸的斯塔姆松村登岸，然后租了一辆老旧的梅赛德斯，沿着群岛上的公路，开过了16座桥。"
 last_modified_at: 2015-05-01
 categories:
-  - Translation
+  - Literature
 tags:
-  - Culture
+  - Translation
 ---
 
 “这就是了”，科尔曼指着一个平淡无奇的二楼公寓说。此刻我们正站在挪威中部城市特隆赫姆的一个街角，这是个令人喜爱的大学城，坐守在峡湾边山，渡口随处可见。特隆赫姆是我祖父生长的故乡，所以这，应该就是他曾住过的公寓了。
@@ -140,5 +140,6 @@ RTV的总管事后承认这还是让人觉得有点短。
 
 我曾每一天都见到它，却从未在今天之前见过这样的它。
 
-原文：[Norway the Slow Way by Reif Larsen from New York Times](http://www.nytimes.com/interactive/2014/09/19/travel/reif-larsen-norway.html)  
-翻译：ivanhjc
+原文：[Norway the Slow Way by Reif Larsen from New York Times](http://www.nytimes.com/interactive/2014/09/19/travel/reif-larsen-norway.html)
+
+翻译：Joseph Huang

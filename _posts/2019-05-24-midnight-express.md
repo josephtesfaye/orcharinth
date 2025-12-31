@@ -3,9 +3,9 @@ title: "Midnight Express: What is a crime"
 excerpt: Movie review
 last_modified_at: 2019-05-24
 categories:
-  - Diary
+  - Life
 tags:
-  - Film
+  - Movie
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lhuutAnXBzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

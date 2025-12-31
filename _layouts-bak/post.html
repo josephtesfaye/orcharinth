@@ -1,0 +1,15 @@
+{% if page.authors %}
+<div class="post-authors">
+    <h3>Authors</h3>
+    {% for author in page.authors %}
+    {% assign author_details = site.data.authors[author] %}
+    <div class="author-profile">
+        <img src="{{ author_details.picture }}" alt="{{ author_details.name }}">
+        <div class="author-info">
+            <h4>{{ author_details.name }}</h4>
+            <p>{{ author_details.bio }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endif %}

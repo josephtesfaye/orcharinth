@@ -5,9 +5,8 @@ last_modified_at: 2020-10-14
 toc: true
 classes: narrow
 categories:
-  - Web
+  - Programming
 tags:
-  - Frontend
   - HTML
 ---
 
