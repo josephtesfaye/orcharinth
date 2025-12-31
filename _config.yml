@@ -10,7 +10,7 @@ subtitle: Code. Culture. Cultivation.
 name: Joseph Huang
 description: "A curated sanctuary where the complexity of code and science meets the organic rhythm of art, health, and thought."
 # url: https://josephtesfaye.com
-baseurl: /orcharinth
+baseurl: /josephs-blog
 # repository: josephtesfaye/blog
 # teaser:
 # logo:
@@ -207,7 +207,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
